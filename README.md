@@ -11,7 +11,6 @@ I am **Aryan Acharya**, a dedicated **AI Engineer**, **Full-Stack Developer**, a
 - **🌟 Role**: AI Engineer  
 - **🎓 Education**: B.Tech in Computer Engineering, Silver Oak University  
 - **📍 Location**: India  
-- **🌐 Website**: [Binary Velocity](https://www.binaryvelocity.com)  
 - **⚡ Interests**: AI for Good, NLP, Computer Vision, Scalable Web Solutions  
 - **📈 Vision**: *Transforming challenges into opportunities through AI-driven innovations.*  
 
